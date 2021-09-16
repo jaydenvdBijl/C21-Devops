@@ -1,0 +1,5 @@
+terminal 
+search bar 
+extentions 
+edit 
+file
